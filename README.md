@@ -1,6 +1,6 @@
 # [Softsy](http://softsy.design/)
 
-[Softsy](http://softsy.design/) is a website powered by Bootstrap made to give me a deeper understanding in frontend development
+[Softsy](http://softsy.design/) is a website powered by Bootstrap to give me a deeper understanding in frontend development
 
 ## About
 
